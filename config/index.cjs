@@ -8,13 +8,13 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wx30ee9588d9b4d6c3',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: 'e78901dccbd9775dc6e03961461c9081',
 
-  PROVINCE: '广东',
-  CITY: '惠州',
+  PROVINCE: '四川',
+  CITY: '成都 ',
 
   USERS: [
     {
@@ -42,7 +42,7 @@ const USER_CONFIG = {
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2022-09-08' },
+        { keyword: 'love_day', date: '2021-02-04' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2022-09-09' },
       ],
@@ -51,7 +51,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: 'Wa4g6JOrZh2ee62hxEUHaXRGfbLPpuBp-A_Sv7a1174',
 
   CALLBACK_USERS: [
     {
